@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <a href="#" className="text-xl font-bold text-white">
-              Salud<span className="text-accent">Red</span>
+              Veri<span className="text-accent">med</span>
             </a>
             <p className="mt-2 text-sm text-gray-400">
               Plataforma B2B de salud digital para Colombia
@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} SaludRed. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Verimed. Todos los derechos reservados.</p>
           <nav className="flex gap-6">
             <a href="#como-funciona" className="hover:text-gray-300 transition-colors">
               Cómo funciona

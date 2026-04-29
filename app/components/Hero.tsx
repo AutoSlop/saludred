@@ -17,7 +17,7 @@ export default function Hero() {
           Prevención y gestión de riesgo en salud, conectada en una sola red
         </h1>
         <p className="mt-6 text-lg sm:text-xl text-white/85 max-w-3xl mx-auto leading-relaxed">
-          SaludRed conecta pacientes, prestadores (IPS y clínicas) y
+          Verimed conecta pacientes, prestadores (IPS y clínicas) y
           aseguradores (EPS) en pilotos rápidos de 100 a 500 pacientes para
           detectar riesgo, activar seguimiento y mejorar resultados — sin
           integraciones complejas al inicio. Implementación en 2 semanas.

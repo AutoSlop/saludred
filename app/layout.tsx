@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "SaludRed — Prevención y gestión de riesgo en salud",
+  title: "Verimed — Prevención y gestión de riesgo en salud",
   description:
     "Plataforma B2B de salud digital para EPS, aseguradoras, IPS y clínicas en Colombia. Coordina prevención y gestión de riesgo entre pacientes, prestadores y aseguradores.",
 };

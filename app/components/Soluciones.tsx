@@ -43,7 +43,7 @@ export default function Soluciones() {
             Soluciones por tipo de cliente
           </h2>
           <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-            SaludRed se adapta a las necesidades de cada actor del sistema de salud
+            Verimed se adapta a las necesidades de cada actor del sistema de salud
           </p>
         </div>
 

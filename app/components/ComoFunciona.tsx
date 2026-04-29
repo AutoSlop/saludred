@@ -40,7 +40,7 @@ export default function ComoFunciona() {
             Cómo funciona
           </h2>
           <p className="mt-4 text-lg text-text-light max-w-2xl mx-auto">
-            SaludRed conecta a los tres actores clave del sistema de salud en una sola plataforma
+            Verimed conecta a los tres actores clave del sistema de salud en una sola plataforma
           </p>
         </div>
 

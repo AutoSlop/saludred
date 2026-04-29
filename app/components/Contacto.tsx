@@ -42,7 +42,7 @@ export default function Contacto() {
             ¿Listo para transformar la gestión de riesgo en salud?
           </h2>
           <p className="mt-4 text-lg text-white/80">
-            Solicita una demo y descubre cómo SaludRed puede ayudarte a operar pilotos medibles en solo 2 semanas.
+            Solicita una demo y descubre cómo Verimed puede ayudarte a operar pilotos medibles en solo 2 semanas.
           </p>
         </div>
 
