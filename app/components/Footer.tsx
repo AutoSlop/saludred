@@ -17,7 +17,9 @@ export default function Footer() {
               info@example.com
             </a>
             <span className="hidden sm:inline">·</span>
-            <span>+00 000 000 0000</span>
+            <a href="https://verimed.vercel.app" className="hover:text-white transition-colors">
+              verimed.vercel.app
+            </a>
           </div>
         </div>
 
