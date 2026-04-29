@@ -7,6 +7,7 @@ export default function Header() {
 
   const links = [
     { href: "#como-funciona", label: "Cómo funciona" },
+    { href: "#soluciones", label: "Soluciones" },
     { href: "#modulos", label: "Módulos" },
     { href: "#beneficios", label: "Beneficios" },
     { href: "#pricing", label: "Pricing" },
